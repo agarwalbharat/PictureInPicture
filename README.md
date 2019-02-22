@@ -40,7 +40,7 @@ I welcome and encourage all pull requests. It usually will take me within 10-21 
 
 ### Implementation
 
-This project is implemented in HTML,CSS and Javascript and it is completely Responsive.
+This project is implemented in HTML,CSS and Javascript and it is completely Responsive With a https://teamtreehouse.com git intro video.
 
 ### Tested
 
@@ -54,5 +54,3 @@ Keep Developing and Playing.
 Follow me on 
 [Bharat](https://github.com/bharatagsrwal) ([Facebook](https://www.facebook.com/bharatagsrwal)) ([Linkedin](https://www.linkedin.com/in/bharatagsrwal)) ([Hackerrank](https://www.hackerrank.com/bharatagsrwal))
 ([Website](https://iambharat.tk))([Twitter](https://www.twitter.com/bharatagsrwal))
-
-git
