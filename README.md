@@ -1,12 +1,12 @@
-# Blog Template
-Responsive Blog Template in HTML, CSS and Js
+# PictureInPicture
+Picture In Picture demo with [materializecss](http://materializecss.com)
 
 ## Getting Started
 It is complete ready to use Responsive blog template. It is basic website made in HTML, CSS.
 
-To View this Website online visit [BlogTemplate](https://blogtemplate.iambharat.tk/) 
+To View this Website online visit [PictureInPicture](https://pip.iambharat.tk/) 
 ***or*** 
-Paste https://blogtemplate.iambharat.tk/ in browser
+Paste https://pip.iambharat.tk/ in browser
 
 ### Show some :heart: and :star: the repo to support the project. 
 For more contact me @[facebook](https://www.facebook.com/bharatagsrwal), @[Twitter](https://www.twitter.com/bharatagsrwal) or @[Website](https://iambharat.tk)
