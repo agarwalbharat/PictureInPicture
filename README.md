@@ -4,12 +4,12 @@ Picture In Picture demo with [materializecss](http://materializecss.com)
 ## Getting Started
 It is complete ready to use Responsive blog template. It is basic website made in HTML, CSS.
 
-To View this Website online visit [PictureInPicture](https://pip.iambharat.tk/) 
+To View this Website online visit [PictureInPicture](https://pip.iambharat.me/) 
 ***or*** 
-Paste https://pip.iambharat.tk/ in browser
+Paste https://pip.iambharat.me/ in browser
 
 ### Show some :heart: and :star: the repo to support the project. 
-For more contact me @[facebook](https://www.facebook.com/bharatagsrwal), @[Twitter](https://www.twitter.com/bharatagsrwal) or @[Website](https://iambharat.tk)
+For more contact me @[facebook](https://www.facebook.com/bharatagsrwal), @[Twitter](https://www.twitter.com/bharatagsrwal) or @[Website](https://iambharat.me)
 ### Screenshots
 #### Desktop
 <img src="/Screenshots/pip1.jpg" height="200em" /> <img src="/Screenshots/pip2.jpg" height="200em" />
@@ -43,7 +43,7 @@ I welcome and encourage all pull requests. It usually will take me within 10-21 
 
 ### Created By :sunglasses:
 [Bharat](https://github.com/bharatagsrwal) ([Facebook](https://www.facebook.com/bharatagsrwal)) ([Linkedin](https://www.linkedin.com/in/bharatagsrwal)) ([Hackerrank](https://www.hackerrank.com/bharatagsrwal))
-([Website](https://iambharat.tk))([Twitter](https://www.twitter.com/bharatagsrwal))
+([Website](https://iambharat.me))([Twitter](https://www.twitter.com/bharatagsrwal))
 
 ### Implementation :innocent:
 
